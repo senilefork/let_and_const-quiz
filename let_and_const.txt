@@ -1,0 +1,15 @@
+var PI = 3.14;
+PI = 42; // stop me from doing this!
+
+const PI = 3.14;
+
+What is the difference between var and let?
+let is block scoped and it cannot be redeclared whereas var is accessible anywehre inside of the funtion it is 
+declared in.
+What is the difference between var and const?
+const cannot be redeclared or reassigned and is also block scoped
+What is the difference between let and const?
+let can be reassigned, const cannot
+What is hoisting?
+hoisting is the concept that a variable can be declared after the place it is physically wtritten
+in the code without causing problems when it is compiled.
